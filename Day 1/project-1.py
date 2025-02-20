@@ -4,4 +4,3 @@ city = input()
 print("What's your pet's name?")
 pet = input()
 print("Your band name could be " + city + " " + pet)
-# 🚨 Don't change the code below 👇
